@@ -1,7 +1,26 @@
 * {
   box-sizing: border-box;
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-text-select: none;
+  -webkit-user-select: none;
 }
 
-html, ::after, ::before {
+html,
+::after,
+::before {
   box-sizing: inherit;
+}
+
+body {
+  display: flex;
+  overflow: hidden;
+  overflow-y: scroll;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: "Poppins", sans-serif;
 }
