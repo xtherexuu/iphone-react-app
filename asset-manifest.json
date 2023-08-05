@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iphone-react-app/static/css/main.6f4642e5.css",
+    "main.js": "/iphone-react-app/static/js/main.a72d3372.js",
+    "static/js/787.b17fbfde.chunk.js": "/iphone-react-app/static/js/787.b17fbfde.chunk.js",
+    "index.html": "/iphone-react-app/index.html",
+    "main.6f4642e5.css.map": "/iphone-react-app/static/css/main.6f4642e5.css.map",
+    "main.a72d3372.js.map": "/iphone-react-app/static/js/main.a72d3372.js.map",
+    "787.b17fbfde.chunk.js.map": "/iphone-react-app/static/js/787.b17fbfde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f4642e5.css",
+    "static/js/main.a72d3372.js"
+  ]
+}
